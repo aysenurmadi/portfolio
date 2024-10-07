@@ -1,0 +1,29 @@
+footer {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+menu{
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 1.2rem;
+}
+
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+
+#s1{
+background-color: rgb(223, 233, 236);
+}
+
+#s2{
+background-color: rgb(223, 233, 236);
+    }
+
+#contact_form div{
+    margin: 10px
+}
